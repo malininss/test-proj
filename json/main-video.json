@@ -1,0 +1,46 @@
+{
+  "video": {
+    "src": {
+      "mp4": "http://users.1tv.ru/test209432504398209345454309689/video/"
+    },
+    "poster": "img/main-video-poster.jpg"
+  },
+  "captions": [
+    {
+      "id": 1,
+      "title": "text 1",
+      "href": "#1",
+      "start": 2,
+      "stop": 4,
+      "top": "10%",
+      "right": "auto",
+      "bottom": "auto",
+      "left": "10%",
+      "size": 20
+    },
+    {
+      "id": 2,
+      "title": "text 2",
+      "href": "#2",
+      "start": 5,
+      "stop": 7,
+      "top": "30%",
+      "right": "auto",
+      "bottom": "auto",
+      "left": "30%",
+      "size": 14
+    },
+    {
+      "id": 3,
+      "title": "text 3",
+      "href": "#3",
+      "start": 9,
+      "stop": 13,
+      "top": "70%",
+      "right": "auto",
+      "bottom": "auto",
+      "left": "70%",
+      "size": 16
+    }
+  ]
+}
